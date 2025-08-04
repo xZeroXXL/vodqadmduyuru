@@ -1,4 +1,4 @@
-@echo off
+@echo start
 title VODQA BOT - Başlatma
 color 0B
 echo.
